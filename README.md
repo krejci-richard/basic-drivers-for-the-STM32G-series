@@ -1,7 +1,7 @@
 # basic-drivers-for-the-STM32G-series with STM32CubeIDE
 Initialization of individual drivers, for various peripherals for STM32G using STM32CubeIDE with HAL libraries
 
-Projekty:
+Projects:
 
 TEMPERATURE MEASUREMENT:
 - DS18B20 with OneWire library, timing using TIM
